@@ -83,13 +83,15 @@
 // increase(number)
 // console.log(number) //10
 
-let number = {value: 10}
+// let obj = { value: 10 }
 
-function increase(number) {
-    number++
-}
+// function increase(obj) {
+//     obj.value++;
+// }
 
-increase(number)
-console.log(number) //10
+// increase(obj)
+// console.log(obj.value) 
+// console.log('obj', obj)
+
 
 //35.46 https://www.youtube.com/watch?v=PFmuCDHHpwk
